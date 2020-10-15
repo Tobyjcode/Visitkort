@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2013/07/13/12/08/background-159244_1280.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
